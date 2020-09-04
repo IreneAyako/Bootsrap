@@ -1,7 +1,6 @@
 html body {
   font-family: "Roboto Condensed", sans-serif;
-  background-color: black !important;
-  width: 1360px !important;
+  background-color: whitesmoke !important;
 }
 
 .header {
@@ -76,5 +75,5 @@ html body {
 .main {
   background-color: white !important;
   margin-top: 0.05%;
-  height: 3000px;
+  height: 5000px;
 }
