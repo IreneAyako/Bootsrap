@@ -77,3 +77,27 @@ html body {
   margin-top: 0.05%;
   height: 4200px;
 }
+
+.list {
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.list a {
+  margin: 3px;
+  color: grey;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.lista {
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.lista a {
+  text-decoration: none;
+  margin: 2px;
+  color: grey;
+  font-size: 15px;
+}
